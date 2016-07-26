@@ -1,0 +1,19 @@
+{
+  "name": "markdown",
+  "version": "1.0.0",
+  "description": "simple markdown display",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mschultz4/markdown.git"
+  },
+  "author": "Matt Schultz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mschultz4/markdown/issues"
+  },
+  "homepage": "https://github.com/mschultz4/markdown#readme"
+}

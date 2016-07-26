@@ -1,0 +1,12 @@
+    body,
+    textarea {
+        padding: 15px;
+    }
+    
+    textarea,
+    #content {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 90%;
+    }
